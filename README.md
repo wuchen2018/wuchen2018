@@ -24,7 +24,7 @@
 
 **[进入配套资料仓库](https://github.com/wuchen2018/probability-book)** · [阅读新书介绍](https://zhuanlan.zhihu.com/p/2099226911767581717) · [观看介绍视频](https://www.bilibili.com/video/BV1p5sf6NEUn/)
 
-[首印勘误](https://github.com/wuchen2018/probability-book/blob/main/errata/README.md)已整理；样章与实验文件将在核对后补充。
+已提供[完整目录](https://github.com/wuchen2018/probability-book/blob/main/contents/table-of-contents.pdf)和[六份样章](https://github.com/wuchen2018/probability-book#样章)；[勘误](https://github.com/wuchen2018/probability-book/blob/main/errata/README.md)后续更新，Python实验文件将在核对后补充。
 
 ## 我在分享什么
 
@@ -34,7 +34,7 @@
 
 ## 另外两本书
 
-- [《一个大模型工程师的诞生》](https://github.com/wuchen2018/llm-engineer-book)：已交稿，出版流程推进中，已提供浮点数、注意力直觉、LoRA和KV Cache四份样章。
+- [《一个大模型工程师的诞生》](https://github.com/wuchen2018/llm-engineer-book)：已交稿，出版流程推进中，已提供书稿目录，以及浮点数、注意力直觉、LoRA和KV Cache四份样章。
 - [算法工程师职场观察（书名待定）](https://github.com/wuchen2018/algorithm-engineer-book)：已交稿，尚未出版，正式书名待定。
 
 两本书均由清华大学出版社推进，出版进展会在这里、B站和知乎同步。
