@@ -24,7 +24,7 @@
 
 **[进入配套资料仓库](https://github.com/wuchen2018/probability-book)** · [阅读新书介绍](https://zhuanlan.zhihu.com/p/2099226911767581717) · [观看介绍视频](https://www.bilibili.com/video/BV1p5sf6NEUn/)
 
-配套仓库已建立，样章、勘误与实验文件将在核对后补充。
+[首印勘误](https://github.com/wuchen2018/probability-book/blob/main/errata/README.md)已整理；样章与实验文件将在核对后补充。
 
 ## 我在分享什么
 
@@ -32,4 +32,9 @@
 - **大模型原理**：用纸笔和具体例子讲解Transformer、MoE、浮点数、Softmax等内容。
 - **算法工程经验**：分享学习路线、实习、项目与职场经验。
 
-另有两部书稿已交稿，分别围绕大模型算法工程师的学习与实践、算法工程师的职场观察。出版进展会在B站和知乎同步。
+## 另外两本书
+
+- [《一个大模型工程师的诞生》](https://github.com/wuchen2018/llm-engineer-book)：已交稿，出版流程推进中，已提供浮点数、注意力直觉、LoRA和KV Cache四份样章。
+- [算法工程师职场观察（书名待定）](https://github.com/wuchen2018/algorithm-engineer-book)：已交稿，尚未出版，正式书名待定。
+
+两本书均由清华大学出版社推进，出版进展会在这里、B站和知乎同步。
