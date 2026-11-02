@@ -35,6 +35,6 @@
 ## 另外两本书
 
 - [《一个大模型工程师的诞生》](https://github.com/wuchen2018/llm-engineer-book)：已交稿，出版流程推进中，已提供书稿目录，以及浮点数、注意力直觉、LoRA和KV Cache四份样章。
-- [算法工程师职场观察（书名待定）](https://github.com/wuchen2018/algorithm-engineer-book)：已交稿，尚未出版，正式书名待定。
+- [《收到：一个算法工程师的六年》](https://github.com/wuchen2018/algorithm-engineer-book)：已交稿，尚未出版。
 
 两本书均由清华大学出版社推进，出版进展会在这里、B站和知乎同步。
