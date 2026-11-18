@@ -1,16 +1,16 @@
 # 你好，我是武辰 · Wu Chen
 
-数学与AI内容创作者，分享概率论、大模型原理与算法工程经验。
+我高中读文科，本科在武汉大学学金融，研究生转到数学与统计，后来做了约六年算法工作。现在我在知乎写概率论和数学直觉，在 B 站用纸和笔讲大模型。
 
-我喜欢用直观的例子、纸笔推导和完整的计算过程，把“为什么”讲清楚。
+我讲东西，喜欢从一个具体的问题开始，**用大白话讲，不跳步**；能手算的地方，就带你算一遍。我自己很多东西是靠自学的，知道自学的人会卡在哪里，所以不管写书还是做视频，我都会先想：读到这里，你会不会卡住？
 
-[B站 · 作者武辰](https://space.bilibili.com/271305784) · [知乎 · 武辰](https://www.zhihu.com/people/fffar)
+[个人网站](https://wuchen2018.pages.dev/) · [B站 · 作者武辰](https://space.bilibili.com/271305784) · [知乎 · 武辰](https://www.zhihu.com/people/fffar)
 
-## 我的第一本书
+## 我写的书
 
 ### 《大白话概率论：从数学直觉到AI视野》
 
-**清华大学出版社出版**
+**清华大学出版社 · 已出版**
 
 <p align="center">
   <a href="https://github.com/wuchen2018/probability-book">
@@ -18,23 +18,28 @@
   </a>
 </p>
 
-一本适合自学的概率论与数理统计教材。用大白话、生活中的例子和详细推导，把公式背后的道理讲清楚，也把各个知识点之间的联系串起来。
+一本适合自学的概率论与数理统计教材。我用大白话讲，不跳步，从直观出发，把各种分布和知识点串起来，也讲到它们在 AI 里怎么用。书里还有部分考研真题和算法岗面试概率题。
 
-书中结合了AI应用、Python实验、部分考研真题和算法岗面试概率题。
+[目录与样章](https://github.com/wuchen2018/probability-book) · [公开勘误](https://github.com/wuchen2018/probability-book/blob/main/errata/README.md) · [新书介绍](https://zhuanlan.zhihu.com/p/2099226911767581717) · [介绍视频](https://www.bilibili.com/video/BV1p5sf6NEUn/)
 
-**[进入配套资料仓库](https://github.com/wuchen2018/probability-book)** · [阅读新书介绍](https://zhuanlan.zhihu.com/p/2099226911767581717) · [观看介绍视频](https://www.bilibili.com/video/BV1p5sf6NEUn/)
+### 《一个大模型工程师的诞生》
 
-已提供[完整目录](https://github.com/wuchen2018/probability-book/blob/main/contents/table-of-contents.pdf)、[六份样章](https://github.com/wuchen2018/probability-book#样章)和[公开勘误](https://github.com/wuchen2018/probability-book/blob/main/errata/README.md)。
+**书稿已交清华大学出版社 · 审校中**
 
-## 我在分享什么
+写给想做大模型算法工程师的人。从计算机基础和必要的数学讲起，一路讲到 Transformer、微调、RAG 和部署；后半本写数据、协作和求职，这些是入职以后每天都要面对的事。
 
-- **概率论与数学直觉**：从具体问题出发，理解概念、推导和知识之间的联系。
-- **大模型原理**：用纸笔和具体例子讲解Transformer、MoE、浮点数、Softmax等内容。
-- **算法工程经验**：分享学习路线、实习、项目与职场经验。
+[书稿目录与五份样章](https://github.com/wuchen2018/llm-engineer-book)
 
-## 另外两本书
+### 《收到：一个算法工程师的六年》
 
-- [《一个大模型工程师的诞生》](https://github.com/wuchen2018/llm-engineer-book)：已交稿，出版流程推进中，已提供书稿目录，以及浮点数、注意力直觉、LoRA和KV Cache四份样章。
-- [《收到：一个算法工程师的六年》](https://github.com/wuchen2018/algorithm-engineer-book)：已交稿，尚未出版。
+**书稿已交清华大学出版社 · 尚未出版**
 
-两本书均由清华大学出版社推进，出版进展会在这里、B站和知乎同步。
+书名《收到》，是我做算法工程师六年里打得最多的两个字。这本书写的就是这六年，一半是我自己的经历，一半是别人的故事。它不讲技术，讲做这份工作的人。
+
+[图书介绍](https://github.com/wuchen2018/algorithm-engineer-book)
+
+出版进展会在这里、B 站和知乎同步。
+
+## 在哪里能找到我
+
+我的文章和视频都整理在[个人网站](https://wuchen2018.pages.dev/)上：概率论和大模型的讲解，一些职场随笔，还有几篇用概率算三国杀的文章。知乎的文字作品，网站上也存了全文。
