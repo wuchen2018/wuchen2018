@@ -20,7 +20,7 @@
 
 一本适合自学的概率论与数理统计教材。我用大白话讲，不跳步，从直观出发，把各种分布和知识点串起来，也讲到它们在 AI 里怎么用。书里还有部分考研真题和算法岗面试概率题。
 
-[目录与样章](https://github.com/wuchen2018/probability-book) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/why-probability-book.html) · [首印勘误](https://github.com/wuchen2018/probability-book/blob/main/errata/README.md) · [新书介绍](https://zhuanlan.zhihu.com/p/2099226911767581717) · [介绍视频](https://www.bilibili.com/video/BV1p5sf6NEUn/)
+[目录与样章](https://github.com/wuchen2018/probability-book) · [Python 实验代码](https://github.com/wuchen2018/probability-book/tree/main/code) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/why-probability-book.html) · [首印勘误](https://github.com/wuchen2018/probability-book/blob/main/errata/README.md) · [新书介绍](https://zhuanlan.zhihu.com/p/2099226911767581717) · [介绍视频](https://www.bilibili.com/video/BV1p5sf6NEUn/)
 
 ### 《一个大模型工程师的诞生》
 
@@ -28,7 +28,7 @@
 
 写给想做大模型算法工程师的人。从计算机基础和必要的数学讲起，一路讲到 Transformer、微调、RAG 和部署；后半本写数据、协作和求职，这些是入职以后每天都要面对的事。
 
-[书稿目录与五份样章](https://github.com/wuchen2018/llm-engineer-book) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/llm-book-preface.html)
+[书稿目录与八份样章](https://github.com/wuchen2018/llm-engineer-book) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/llm-book-preface.html)
 
 ### 《收到：一个算法工程师的六年》
 
