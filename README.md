@@ -46,6 +46,12 @@
 
 [概率论 · 10 个实验](https://wuchen2018.github.io/probability-book/experiments/) · [大模型 · 已开放 2 个实验](https://wuchen2018.github.io/llm-engineer-book/experiments/)
 
+## 教学视频
+
+《大白话概率论》先公开了10集配套动画视频，从两枚硬币、骰子和具体数据讲起，跟着画面一步步看推算。
+
+[观看教学视频（10集）](https://wuchen2018.github.io/probability-book/experiments/#videos)
+
 ## 在哪里能找到我
 
 我的文章和视频都整理在[个人网站](https://wuchen2018.pages.dev/)上：概率论和大模型的讲解，一些职场随笔，还有几篇用概率算三国杀的文章。知乎的文字作品，网站上也存了全文。
