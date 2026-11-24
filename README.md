@@ -48,9 +48,9 @@
 
 ## 教学视频
 
-《大白话概率论》先公开了10集配套动画视频，从两枚硬币、骰子和具体数据讲起，跟着画面一步步看推算。
+《大白话概率论》已公开10集动画视频；《一个大模型工程师的诞生》尚未出版，先开放Softmax选词和注意力QKV两集。
 
-[观看教学视频（10集）](https://wuchen2018.github.io/probability-book/experiments/#videos)
+[概率论视频（10集）](https://wuchen2018.github.io/probability-book/experiments/#videos) · [大模型视频（2集）](https://wuchen2018.github.io/llm-engineer-book/experiments/#videos)
 
 ## 在哪里能找到我
 
