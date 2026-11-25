@@ -42,9 +42,13 @@
 
 ## 网页交互实验
 
-写书的时候顺手做了一批不用写代码的网页实验，不用装环境，打开就能动手玩。《大白话概率论》的34个交互实验已全部公开；《一个大模型工程师的诞生》尚未正式出版，目前开放2个实验，其余将在出版后开放。欢迎直接点进去试试。觉得哪里没讲透，也可以在实验页面最底下给我留句话。
+《看得见的概率论》是独立的开源交互学习项目，包含39个实验和1个医院补充例子。不用安装软件，也不用写代码，可以直接在线操作，也可以下载后离线使用。各实验保留《大白话概率论》的对应章节和样章说明。
 
-[概率论 · 34 个实验](https://wuchen2018.github.io/probability-book/experiments/) · [大模型 · 已开放 2 个实验](https://wuchen2018.github.io/llm-engineer-book/experiments/)
+[看得见的概率论 · 在线体验](https://wuchen2018.github.io/visual-probability/) · [查看项目源码](https://github.com/wuchen2018/visual-probability)
+
+《一个大模型工程师的诞生》尚未正式出版，目前开放2个交互实验，其余将在出版后开放。
+
+[大模型 · 已开放2个实验](https://wuchen2018.github.io/llm-engineer-book/experiments/)
 
 ## 教学视频
 
