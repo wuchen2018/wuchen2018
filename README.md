@@ -42,9 +42,9 @@
 
 ## 网页交互实验
 
-写书的时候顺手做了一批不用写代码的网页实验，不用装环境，打开就能动手玩。《大白话概率论》先公开 10 个；《一个大模型工程师的诞生》尚未正式出版，目前先开放 2 个。欢迎直接点进去试试，随书还会提供更完整的配套内容。觉得哪里没讲透，也可以在实验页面最底下给我留句话。
+写书的时候顺手做了一批不用写代码的网页实验，不用装环境，打开就能动手玩。《大白话概率论》的34个交互实验已全部公开；《一个大模型工程师的诞生》尚未正式出版，目前开放2个实验，其余将在出版后开放。欢迎直接点进去试试。觉得哪里没讲透，也可以在实验页面最底下给我留句话。
 
-[概率论 · 10 个实验](https://wuchen2018.github.io/probability-book/experiments/) · [大模型 · 已开放 2 个实验](https://wuchen2018.github.io/llm-engineer-book/experiments/)
+[概率论 · 34 个实验](https://wuchen2018.github.io/probability-book/experiments/) · [大模型 · 已开放 2 个实验](https://wuchen2018.github.io/llm-engineer-book/experiments/)
 
 ## 教学视频
 
