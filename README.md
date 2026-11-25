@@ -20,7 +20,7 @@
 
 一本适合自学的概率论与数理统计教材。我用大白话讲，不跳步，从直观出发，把各种分布和知识点串起来，也讲到它们在 AI 里怎么用。书里还有部分考研真题和算法岗面试概率题。
 
-[目录与样章](https://github.com/wuchen2018/probability-book) · [两篇前言](https://github.com/wuchen2018/probability-book#前言) · [Python 实验代码](https://github.com/wuchen2018/probability-book/tree/main/code) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/why-probability-book.html) · [新书介绍](https://zhuanlan.zhihu.com/p/2099226911767581717) · [介绍视频](https://www.bilibili.com/video/BV1p5sf6NEUn/)
+[目录与样章](https://github.com/wuchen2018/probability-book) · [两篇前言](https://github.com/wuchen2018/probability-book#前言) · [Python 实验代码](https://github.com/wuchen2018/probability-book/tree/main/code) · [我为什么写这本书](https://wuchen2018.pages.dev/articles/why-probability-book.html) · [介绍视频](https://www.bilibili.com/video/BV1p5sf6NEUn/)
 
 ### 《一个大模型工程师的诞生》
 
@@ -32,7 +32,7 @@
 
 ### 《收到：一个算法工程师的六年》
 
-**书稿已交清华大学出版社 · 尚未出版**
+**清华大学出版社审校中，预计2027年初出版**
 
 书名《收到》，是我做算法工程师六年里打得最多的两个字。这本书写的就是这六年，一半是我自己的经历，一半是别人的故事。它不讲技术，讲做这份工作的人。
 
